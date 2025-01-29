@@ -1,18 +1,10 @@
-.hoje {
-  color: darkred;
-}
-.amanha {
-  color: darkblue;
+h1 {
+  background: #b68ff1;
+  color: rgba(123, 194, 199, 0.5);
 }
 
-.titulo {
-  color: seagreen;
-}
-
-#nome {
-  text-decoration: none;
-}
-
-p {
-  font-family: Arial, Helvetica, sans-serif;
+a {
+  background: seagreen;
+  color: aliceblue;
+  font-size: 30px;
 }

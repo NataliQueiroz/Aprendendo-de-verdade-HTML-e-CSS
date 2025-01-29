@@ -1,0 +1,16 @@
+Background ou background-color muda a cor de fundo do elemento.
+
+A tag <a> no HTML serve para criar links, ou seja, ela é usada para conectar uma página a outra, ou até mesmo uma parte da mesma página.
+
+Imagine que você está lendo uma página na internet e vê um texto sublinhado ou colorido, como um botão. Quando você clica nesse texto, 
+você vai para outra página ou seção, certo? Esse é o trabalho da tag <a>: permitir que o usuário clique e seja direcionado para outro lugar.
+
+Como funciona?
+A tag <a> tem um atributo chamado href, que significa "destino". O href define para onde o link vai levar a pessoa quando ela clicar.
+
+Hexadecimal
+A cor é representada através de um código de 6 caracteres que vão de 0 até F.
+
+RGB
+RGB é um modelo de cores baseado em três cores primárias: vermelho, verde e azul.
+Cada cor tem um valor que vai de 0 a 255, e a combinação dessas cores cria diferentes tons e cores.
