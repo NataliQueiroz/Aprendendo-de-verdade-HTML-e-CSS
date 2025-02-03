@@ -14,3 +14,17 @@ A cor é representada através de um código de 6 caracteres que vão de 0 até 
 RGB
 RGB é um modelo de cores baseado em três cores primárias: vermelho, verde e azul.
 Cada cor tem um valor que vai de 0 a 255, e a combinação dessas cores cria diferentes tons e cores.
+
+Estilos do Browser
+Padrão
+os browsers possuem um css inicial que é aplicado ao documento.
+
+h1 vs p
+por isso quando marcamos um h1 o texto fica maior/negrito em relação a um texto marcado com um p.
+
+Inherit(herança)
+Existem propriedades do CSS que são passadas do pai para o filho como uma herança(inherit).
+Ex: color, font-size, font-family e outras.
+
+Padrão vs herança
+O valor padrão irá escrever por cima da herança. Por isso ao definirmos uma color no body, os <a> não mudam de cor.
