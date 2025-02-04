@@ -1,16 +1,35 @@
-span,
-a,
-strong {
-  border: 1px solid rgba(0, 0, 0, 0.5);
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 50px;
 }
-a {
-  display: inline-block;
-  padding: 20px;
-  margin: 10px;
+h1 {
+  text-align: center;
+}
+h2 {
+  margin: 0px;
 }
 
-div,
-h1,
+.item {
+  background: #111;
+  color: #fff;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+span {
+  color: #febe01;
+}
+
 p {
-  border: 1px solid rgba(255, 0, 0, 0.5);
+  color: #b2b2b2;
+}
+
+a {
+  display: inline-block;
+  background: #febe01;
+  color: #332200;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
 }
