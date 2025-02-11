@@ -62,3 +62,11 @@ alt
 Texto alternativo que será lido por leitores de tela (acessibilidade), robôs e que irá aparecer caso a imagem não carregue.
 max-widht:100%
 Geralmente definimos um widht máximo de 100% para a imagem, assim ela não cresce além do elemento pai.
+
+Posicionamentos
+Top, Right, Bottom e Left
+
+inline e block
+Os valores de top, bottom, right e left são relativos ao documento. Para
+valores relativos a caixa (box) que pode ser influenciada pelo modo de escrita, use inline-start, inline-end,
+block-start. block-end.

@@ -1,11 +1,12 @@
-img {
-  max-width: 100%;
-  display: block;
-  width: 600px;
+span {
+  display: inline-block;
+  background: #ddd;
 }
-.foto {
-  width: 150px;
-}
-body {
-  background-color: darkkhaki;
+span {
+  padding: 30px;
+  padding: 20px 40px;
+  padding: 40px 100px 200px 10px;
+  border: 10px solid black;
+  border-top: 20px solid black;
+  border-width: 15px 60px black;
 }
