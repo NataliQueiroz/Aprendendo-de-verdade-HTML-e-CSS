@@ -1,12 +1,6 @@
-span {
-  display: inline-block;
-  background: #ddd;
+body {
+  writing-mode: vertical-rl;
 }
-span {
-  padding: 30px;
-  padding: 20px 40px;
-  padding: 40px 100px 200px 10px;
-  border: 10px solid black;
-  border-top: 20px solid black;
-  border-width: 15px 60px black;
+h1 {
+  margin-top: 30px;
 }
