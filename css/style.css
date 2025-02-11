@@ -1,7 +1,11 @@
 img {
   max-width: 100%;
   display: block;
+  width: 600px;
 }
 .foto {
   width: 150px;
+}
+body {
+  background-color: darkkhaki;
 }
