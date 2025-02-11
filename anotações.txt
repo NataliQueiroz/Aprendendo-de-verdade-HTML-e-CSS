@@ -70,3 +70,16 @@ inline e block
 Os valores de top, bottom, right e left são relativos ao documento. Para
 valores relativos a caixa (box) que pode ser influenciada pelo modo de escrita, use inline-start, inline-end,
 block-start. block-end.
+
+grid
+Com o display: grid; é possível definirmos colunas e linhas para organizarmos os elementos que 
+estiverem dentro do grid.
+
+grid-template-columns
+Define o total de colunas e o tamanho de cada uma.
+
+fr
+fr é uma unidade fracionária que terá com objetivo distribuir o espaço restante entre os elementos do grid.
+
+gap
+Cria uma distância entre os elementos do grid, tanto horizontal quanto vertical.
