@@ -83,3 +83,6 @@ fr é uma unidade fracionária que terá com objetivo distribuir o espaço resta
 
 gap
 Cria uma distância entre os elementos do grid, tanto horizontal quanto vertical.
+
+lembrete *Para justificar um conteúdo ou alinhar um conteúdo, tem que ter espaço para justificar!*
+span no css -> expande. ex: span 2 : expande 2 colunas.
