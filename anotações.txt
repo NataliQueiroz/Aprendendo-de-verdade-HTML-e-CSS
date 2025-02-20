@@ -86,3 +86,13 @@ Cria uma distância entre os elementos do grid, tanto horizontal quanto vertical
 
 lembrete *Para justificar um conteúdo ou alinhar um conteúdo, tem que ter espaço para justificar!*
 span no css -> expande. ex: span 2 : expande 2 colunas.
+
+align-items e hustify-items
+align-items:start|center|end|stretch
+alinha os itens na horizontal
+
+justify-items:start|center|end|stretch
+alinha os itens na vertical.
+
+place-items: align justify
+atalho para align-items e justify-items.
